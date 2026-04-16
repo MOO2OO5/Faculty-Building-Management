@@ -1,0 +1,16 @@
+
+Write your reflection, answer, table answer etc here
+Student Name & Matric
+Reflection & Answer
+Part A
+Part B
+Part C
+Part D
+Part E
+Part F - justification and comments
+Comparison Table
+Relationship          Meaning                Example from the lab Week04b above
+Association            ________                ________
+Aggregation            ________                ________
+Composition            ________                ________
+Inheritance            _______                 ________
